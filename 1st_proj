@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() { 
+    int Algerie;
+    int Suisse;
+    printf("Enter the value for Algeria: ");
+    scanf("%d", &Algerie);
+    printf("Enter the value for Switzerland: ");
+    scanf("%d", &Suisse);
+    if (Algerie > Suisse) {
+        printf("welcome to the role 8 \n");
+    
+    } else { 
+        printf("عودوا للجزاءير لا نريد شيءا");
+     }
+    return 0;
+}
