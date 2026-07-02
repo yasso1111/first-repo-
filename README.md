@@ -1,5 +1,11 @@
-#include<stdio.h> 
+#include<stdio.h>
 int main() {
-    printf("hello Github");
-    return 0; 
+int number;
+prinft("enter a number :%d");
+scanf("%d") ;
+return 0;
 }
+/_😭🎀_/
+/_meeeeeoooww_/
+//helloooooo
+//end
